@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.8222288
+color:
+  saturation: 0.6130104
+  lightness: 0.56963
+  brandStrength: 0.5598164
+  brandColors:
+    - '#7D7E7F'
+    - '#000000'
+    - '#EC008A'
+    - '#00ADE6'
+    - '#EFF1E6'
+  rhythmicContrast: 0.9313118
+name: The Remix
