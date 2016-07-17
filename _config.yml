@@ -20,5 +20,9 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/43f3c184-7131-4e6c-9009-dc9928df7aec.jpg
 name: The Remix
-navigation: []
+navigation:
+  - id: 1626755e-4341-49ad-b7ef-ac0cb64097e3
+    url: 2016-07-17-what-is-the-remix.html
+    name: WHAT IS THE REMIX
+    type: content
 title: Create...Inspire...Contribute
