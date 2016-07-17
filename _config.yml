@@ -20,9 +20,5 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/43f3c184-7131-4e6c-9009-dc9928df7aec.jpg
 name: The Remix
-navigation:
-  - id: www.theremix.com.au
-    url: www.theremix.com.au
-    name: LIVE EVENT
-    type: external
+navigation: []
 title: Create...Inspire...Contribute
