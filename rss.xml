@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Create...Inspire...Contribute]]></title>
         <description><![CDATA[Create...Inspire...Contribute]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-remix/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jul 2016 11:59:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 17 Jul 2016 12:03:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-remix/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8aa45ae0-b610-43fd-859f-0e4a391091be.png">]]></description>
+            <link>https://thegrid.ai/the-remix/72febeca-7f61-4c21-901c-24c2ff86f1c8/index.html</link>
+            <guid isPermaLink="false">72febeca-7f61-4c21-901c-24c2ff86f1c8</guid>
+            <pubDate>Sun, 17 Jul 2016 12:02:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca727798-5676-47aa-80c3-de6985591d14.jpg">]]></description>
