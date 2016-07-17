@@ -7,8 +7,8 @@ isBasedOnUrl: >-
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-17T13:00:12.465Z'
-dateModified: '2016-07-17T12:58:29.483Z'
+datePublished: '2016-07-17T13:02:45.733Z'
+dateModified: '2016-07-17T13:02:45.647Z'
 title: REMIX OUTCOMES
 author: []
 sourcePath: _posts/2016-07-17-remix-outcomes.md
