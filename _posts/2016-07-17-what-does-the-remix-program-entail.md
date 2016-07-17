@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: So what is The Remix?
-datePublished: '2016-07-17T12:58:45.359Z'
-dateModified: '2016-07-17T12:57:22.626Z'
+datePublished: '2016-07-17T12:59:10.407Z'
+dateModified: '2016-07-17T12:58:51.678Z'
 sourcePath: _posts/2016-07-17-what-does-the-remix-program-entail.md
 author: []
 title: WHAT DOES THE REMIX PROGRAM ENTAIL
