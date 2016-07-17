@@ -1,7 +1,7 @@
 ---
 description: ''
-dateModified: '2016-07-17T13:02:32.549Z'
-datePublished: '2016-07-17T13:02:32.659Z'
+dateModified: '2016-07-17T13:08:45.507Z'
+datePublished: '2016-07-17T13:09:01.347Z'
 title: WHAT IS THE REMIX
 author: []
 sourcePath: _posts/2016-07-17-what-is-the-remix.md
@@ -12,7 +12,7 @@ inLanguage: null
 keywords: []
 authors: []
 publisher: null
-starred: true
+starred: false
 url: what-is-the-remix/index.html
 _type: Article
 
