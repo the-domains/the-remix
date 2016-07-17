@@ -4,8 +4,15 @@
         <description><![CDATA[Create...Inspire...Contribute]]></description>
         <link>https://thegrid.ai/the-remix/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jul 2016 12:03:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2016 12:03:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-remix/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/734e8feb-0dbd-4cb8-8e04-7f44c07e58df.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/734e8feb-0dbd-4cb8-8e04-7f44c07e58df.jpg</link>
+            <guid isPermaLink="false">e3317ad2-ff97-47aa-a8ff-089489a64f36</guid>
+            <pubDate>Sun, 17 Jul 2016 12:03:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ebb4cb08-faa2-486a-bc05-74d2c430f774.png">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/the-remix/790884c6-05c6-40d7-b6df-e60626d0f3e0/index.html</link>
             <guid isPermaLink="false">790884c6-05c6-40d7-b6df-e60626d0f3e0</guid>
             <pubDate>Sun, 17 Jul 2016 12:02:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Remix " Story]]></title>
-            <description><![CDATA[<article><h1>The Remix " Story</h1><p>The Remix is a significant and iconic annual event presented by the Brisbane City Council. First staged in 2007 The Remix has developed into one of Brisbane's most exciting celebrations of youth culture, motivating and inspiring young people to make positive contributions to the community in which they live and their school.</p></article>]]></description>
-            <link>http://www.theremix.com.au/story/</link>
-            <guid isPermaLink="false">a77334c0-eb33-4421-a02d-2abeb51305a0</guid>
-            <pubDate>Sun, 17 Jul 2016 12:02:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
