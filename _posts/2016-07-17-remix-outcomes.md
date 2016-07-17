@@ -1,16 +1,13 @@
 ---
 description: REMIX OUTCOMES
-dateModified: '2016-07-17T11:18:25.350Z'
-datePublished: '2016-07-17T11:18:25.451Z'
+dateModified: '2016-07-17T11:29:06.731Z'
+datePublished: '2016-07-17T11:29:07.493Z'
 title: ''
 author: []
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/734e8feb-0dbd-4cb8-8e04-7f44c07e58df.jpg
-starred: false
 sourcePath: _posts/2016-07-17-remix-outcomes.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: remix-outcomes/index.html
 _type: MediaObject
 
 ---
