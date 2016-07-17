@@ -29,11 +29,7 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - id: www.facebook.com/TheRemixEvent
-    url: www.facebook.com/TheRemixEvent
-    name: Connect with us on Facebook
-    type: external
+navigation: []
 favicon: null
 title: Create...Inspire...Contribute
 purpose: []
