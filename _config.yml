@@ -30,10 +30,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - id: 22679e3c-8ea1-46a7-aa13-f472d078cd98
-    url: 2016-07-17-22679e3c-8ea1-46a7-aa13-f472d078cd98.html
-    name: STATISTICS
-    type: content
   - id: www.facebook.com/TheRemixEvent
     url: www.facebook.com/TheRemixEvent
     name: Connect with us on Facebook
