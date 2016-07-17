@@ -12,3 +12,8 @@ color:
     - '#EFF1E6'
   rhythmicContrast: 0.9313118
 name: The Remix
+navigation:
+  - id: www.theremix.com.au
+    url: www.theremix.com.au
+    name: LIVE EVENT
+    type: external
