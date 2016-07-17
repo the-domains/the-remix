@@ -48,8 +48,8 @@ color:
     - '#EC008A'
     - '#00ADE6'
     - '#EFF1E6'
-  brandStrength: 0.5598164
+  brandStrength: 1
   lightness: 0.56963
-  saturation: 0.6130104
+  saturation: 1
   rhythmicContrast: 0.9313118
 purpose: []
