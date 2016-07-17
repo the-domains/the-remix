@@ -10,6 +10,9 @@ color:
     - '#00ADE6'
     - '#EFF1E6'
   rhythmicContrast: 0.9313118
+opengraph:
+  type: Facebook
+  appId: www.facebook.com/TheRemixEvent
 layout_spectrum: 1
 author:
   email: createtheremix@gmail.com
