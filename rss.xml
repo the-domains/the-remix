@@ -4,7 +4,7 @@
         <description><![CDATA[Create...Inspire...Contribute]]></description>
         <link>https://thegrid.ai/the-remix/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jul 2016 11:18:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2016 11:28:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-remix/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,13 +26,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/53be84fa-94d0-4cc2-9073-3b3d90034209.jpg</link>
             <guid isPermaLink="false">b105ad4c-6d3c-4ced-8b2b-5745dc321943</guid>
             <pubDate>Sun, 17 Jul 2016 11:18:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca727798-5676-47aa-80c3-de6985591d14.jpg">]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca727798-5676-47aa-80c3-de6985591d14.jpg</link>
-            <guid isPermaLink="false">1626755e-4341-49ad-b7ef-ac0cb64097e3</guid>
-            <pubDate>Sun, 17 Jul 2016 11:07:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
