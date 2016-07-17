@@ -49,7 +49,7 @@ color:
     - '#00ADE6'
     - '#EFF1E6'
   brandStrength: 1
-  lightness: 1
-  saturation: 1
-  rhythmicContrast: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 1
 purpose: []
