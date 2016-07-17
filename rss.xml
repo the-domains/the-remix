@@ -4,7 +4,7 @@
         <description><![CDATA[Create...Inspire...Contribute]]></description>
         <link>https://thegrid.ai/the-remix/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jul 2016 13:02:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2016 13:05:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-remix/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[WHAT IS THE REMIX]]></title>
@@ -33,20 +33,6 @@
             <link>https://thegrid.ai/the-remix/what-does-the-remix-program-entail/index.html</link>
             <guid isPermaLink="false">5aeba026-47e5-44bd-a1e1-74727b41b090</guid>
             <pubDate>Sun, 17 Jul 2016 13:02:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WHAT DOES THE REMIX PROGRAM ENTAIL]]></title>
-            <description><![CDATA[<article><h1>WHAT DOES THE REMIX PROGRAM ENTAIL</h1><p>So what is The Remix?</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/53be84fa-94d0-4cc2-9073-3b3d90034209.jpg"></article>]]></description>
-            <link>https://thegrid.ai/the-remix/what-does-the-remix-program-entail/index.html</link>
-            <guid isPermaLink="false">8f35a870-fe20-4236-84e7-8d05bdb8aaa6</guid>
-            <pubDate>Sun, 17 Jul 2016 13:00:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[REMIX OUTCOMES]]></title>
-            <description><![CDATA[<article><h1>REMIX OUTCOMES</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/98c8523401f31f4f188ea05406749048/croprotate.jpg?cropheight=1366&cropwidth=2048&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F45571b3f-6c3a-4618-a091-254156146e01.jpg&x=0&y=0"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/45571b3f-6c3a-4618-a091-254156146e01.jpg</link>
-            <guid isPermaLink="false">63e3e929-9d56-467b-83db-045433602ba5</guid>
-            <pubDate>Sun, 17 Jul 2016 13:00:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
