@@ -4,15 +4,8 @@
         <description><![CDATA[Create...Inspire...Contribute]]></description>
         <link>https://thegrid.ai/the-remix/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jul 2016 12:07:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2016 12:08:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-remix/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/53be84fa-94d0-4cc2-9073-3b3d90034209.jpg">]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/53be84fa-94d0-4cc2-9073-3b3d90034209.jpg</link>
-            <guid isPermaLink="false">e4c87096-cc4a-4d0a-9615-645463364b55</guid>
-            <pubDate>Sun, 17 Jul 2016 12:03:00 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/734e8feb-0dbd-4cb8-8e04-7f44c07e58df.jpg">]]></description>
@@ -39,13 +32,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/110a3445-23bc-4ed4-a781-2c8ae6b29302.png">]]></description>
             <link>https://thegrid.ai/the-remix/b5bdf806-2bb1-4647-8683-77d545340270/index.html</link>
             <guid isPermaLink="false">b5bdf806-2bb1-4647-8683-77d545340270</guid>
-            <pubDate>Sun, 17 Jul 2016 12:02:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/89bc50b3-82cc-42a2-a6ec-9d4fdefd9ed9.jpg">]]></description>
-            <link>https://thegrid.ai/the-remix/dfe3db5e-f848-414e-b569-032efd1a194d/index.html</link>
-            <guid isPermaLink="false">dfe3db5e-f848-414e-b569-032efd1a194d</guid>
             <pubDate>Sun, 17 Jul 2016 12:02:59 GMT</pubDate>
         </item>
     </channel>
