@@ -1,25 +1,12 @@
+name: The Remix
+favicon: null
+layout_spectrum: 0.24566
 typography_spectrum: 0.8222288
-color:
-  saturation: 0.6130104
-  lightness: 0.56963
-  brandStrength: 0.5598164
-  brandColors:
-    - '#7D7E7F'
-    - '#000000'
-    - '#EC008A'
-    - '#00ADE6'
-    - '#EFF1E6'
-  rhythmicContrast: 0.9313118
-opengraph:
-  type: Facebook
-  appId: www.facebook.com/TheRemixEvent
-layout_spectrum: 1
 author:
   email: createtheremix@gmail.com
   url: www.theremix.com.au
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/43f3c184-7131-4e6c-9009-dc9928df7aec.jpg
-name: The Remix
 navigation:
   - id: 1626755e-4341-49ad-b7ef-ac0cb64097e3
     url: 2016-07-17-what-is-the-remix.html
@@ -42,3 +29,27 @@ navigation:
     name: Connect with us on Facebook
     type: external
 title: Create...Inspire...Contribute
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: Facebook
+  appId: www.facebook.com/TheRemixEvent
+color:
+  brandColors:
+    - '#7D7E7F'
+    - '#000000'
+    - '#EC008A'
+    - '#00ADE6'
+    - '#EFF1E6'
+  brandStrength: 0.5598164
+  lightness: 0.56963
+  saturation: 0.6130104
+  rhythmicContrast: 0.9313118
+purpose: []
